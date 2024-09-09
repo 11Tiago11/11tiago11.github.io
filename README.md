@@ -8,13 +8,13 @@
 </head>
 <body>
     <header>
-        <h1>Your Name</h1>
+        <h1>Tiago Rodrigues</h1>
         <p>Web Developer | Front-End Specialist</p>
     </header>
 
     <section id="about">
         <h2>About Me</h2>
-        <p>Hello! I’m [Your Name], a passionate web developer with experience in HTML, CSS, JavaScript, and modern web frameworks. I’m currently seeking new opportunities to apply my skills and grow as a developer.</p>
+        <p>Hello! I’m Tiago Rodrigues, a passionate web developer with experience in HTML, CSS, JavaScript, and modern web frameworks. I’m currently seeking new opportunities to apply my skills and grow as a developer.</p>
     </section>
 
     <section id="projects">
@@ -28,8 +28,8 @@
 
     <section id="contact">
         <h2>Contact Me</h2>
-        <p>Email: <a href="mailto:your.email@example.com">your.email@example.com</a></p>
-        <p>LinkedIn: <a href="https://www.linkedin.com/in/yourprofile" target="_blank">LinkedIn Profile</a></p>
+        <p>Email: <a href="mailto:tiago.rodrigues2@outlook.com">your.email@example.com</a></p>
+        <p>LinkedIn: <a href="[https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/tiago-r-074105226/)" target="_blank">LinkedIn Profile</a></p>
     </section>
 
     <footer>
