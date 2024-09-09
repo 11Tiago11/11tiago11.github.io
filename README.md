@@ -34,9 +34,8 @@
             <h2>Skills</h2>
             <ul>
                 <li>HTML, CSS, JavaScript</li>
-                <li>React, Node.js</li>
-                <li>Python, Django</li>
-                <li>SQL, MongoDB</li>
+                <li>Basic knowloge in Java, Phytons</li>
+                <li> Learning new languages <li>
                 <li>Git, GitHub</li>
             </ul>
         </section>
