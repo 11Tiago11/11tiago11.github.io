@@ -1,27 +1,34 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tiago Rodrigues - Web Developer</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <header>
-        <h1>Tiago Rodrigues</h1>
-        <p>Web Developer</p>
-    </header>
-    <section id="about">
-        <h2>About Me</h2>
-        <p>Olá! Sou Tiago Rodrigues, um desenvolvedor web apaixonado, sempre aprendendo e disposto a aprimorar minhas habilidades em desenvolvimento de software. Estou aberto a explorar novas tecnologias e aprofundar meu conhecimento nas que já domino.</p>
-        <p>Hello! I am Tiago Rodrigues, a passionate web developer continuously learning and eager to improve my skills in software development. I am open to exploring new technologies and diving deeper into those I already know.</p>
-        <p>Hallo! Ich bin Tiago Rodrigues, ein leidenschaftlicher Webentwickler, der ständig dazulernt und seine Fähigkeiten in der Softwareentwicklung verbessern möchte. Ich bin offen, neue Technologien zu erforschen und mein Wissen in den Bereichen zu vertiefen, die ich bereits kenne.</p>
-    </section>
-    <section id="contact">
-        <h2>Contact</h2>
-        <p>Email: <a href="mailto:tiago.rodrigues2@yahoo.com">tiago.rodrigues2@yahoo.com</a></p>
-        <p>LinkedIn: <a href="https://www.linkedin.com/in/tiago-r-074105226/" target="_blank">Tiago Rodrigues</a></p>
-    </section>
-    <script src="script.js"></script>
-</body>
-</html>
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #003566; /* Dark Blue */
+    color: #f2c201; /* Gold */
+    padding: 20px;
+    text-align: center;
+}
+
+section {
+    margin: 20px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1, h2 {
+    color: #003566; /* Dark Blue */
+}
+
+a {
+    color: #f2c201; /* Gold */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
