@@ -1,4 +1,3 @@
-    
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -18,21 +17,19 @@
         <p>Hallo! Ich bin Tiago Rodrigues, ein leidenschaftlicher Webentwickler, der ständig dazulernt und seine Fähigkeiten in der Softwareentwicklung verbessern möchte. Ich bin offen, neue Technologien zu erforschen und mein Wissen in den Bereichen zu vertiefen, die ich bereits kenne.</p>
     </section>
     
-<section id="interests">
-    <h2>Interesses / interests / Interessen </h2>
-    <p>Estou interessado em diversos tópicos, como Inteligência Artificial, Computação Quântica, Matemática Discreta, Cibersegurança, e, ultimamente, o desenvolvimento de sites de E-Commerce tem ocupado uma parte importante do meu tempo e atenção.
-    
-    I am interested in various topics, such as Artificial Intelligence, Hypercomputing/Quantum Computing, Discrete Mathematics, Cybersecurity, and lately, the development of E-Commerce websites has taken an important part of my time and attention.
-
-    Ich interessiere mich für verschiedene Themen wie Künstliche Intelligenz, Hypercomputing/Quantencomputing, Diskrete Mathematik, Cybersicherheit, und in letzter Zeit hat die Entwicklung von E-Commerce-Websites einen wichtigen Teil meiner Zeit und Aufmerksamkeit eingenommen.</p>
+    <section id="interests">
+        <h2>Interesses / interests / Interessen</h2>
+        <p>Estou interessado em diversos tópicos, como Inteligência Artificial, Computação Quântica, Matemática Discreta, Cibersegurança, e, ultimamente, o desenvolvimento de sites de E-Commerce tem ocupado uma parte importante do meu tempo e atenção.</p>
+        <p>I am interested in various topics, such as Artificial Intelligence, Hypercomputing/Quantum Computing, Discrete Mathematics, Cybersecurity, and lately, the development of E-Commerce websites has taken an important part of my time and attention.</p>
+        <p>Ich interessiere mich für verschiedene Themen wie Künstliche Intelligenz, Hypercomputing/Quantencomputing, Diskrete Mathematik, Cybersicherheit, und in letzter Zeit hat die Entwicklung von E-Commerce-Websites einen wichtigen Teil meiner Zeit und Aufmerksamkeit eingenommen.</p>
     </section>
+    
     <section id="contact">
         <h2>Contact</h2>
         <p>Email: <a href="mailto:tiago.rodrigues2@yahoo.com">tiago.rodrigues2@yahoo.com</a></p>
         <p>LinkedIn: <a href="https://www.linkedin.com/in/tiago-r-074105226/" target="_blank">Tiago Rodrigues</a></p>
     </section>
 
-    
     <script src="script.js"></script>
 </body>
 </html>
