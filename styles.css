@@ -1,3 +1,14 @@
+/* styles.css */
+
+/* Basic reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+/* Body styling */
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -12,6 +23,10 @@ header {
     text-align: center;
 }
 
+header h1 {
+    color: #f2c201; /* Gold color for the name */
+}
+
 section {
     margin: 20px;
     padding: 20px;
@@ -20,7 +35,7 @@ section {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-h1, h2 {
+h2 {
     color: #003566; /* Dark Blue */
 }
 
