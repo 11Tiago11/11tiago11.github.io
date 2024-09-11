@@ -9,7 +9,7 @@
 <body>
     <header>
         <h1>Tiago Rodrigues</h1>
-        <p>IT’s Built 2 Fit You</p>
+        <p></p>
     </header>
     <main>
         <section>
