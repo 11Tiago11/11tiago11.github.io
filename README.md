@@ -17,13 +17,19 @@
         <p>Hello! I am Tiago Rodrigues, a passionate web developer continuously learning and eager to improve my skills in software development. I am open to exploring new technologies and diving deeper into those I already know.</p>
         <p>Hallo! Ich bin Tiago Rodrigues, ein leidenschaftlicher Webentwickler, der ständig dazulernt und seine Fähigkeiten in der Softwareentwicklung verbessern möchte. Ich bin offen, neue Technologien zu erforschen und mein Wissen in den Bereichen zu vertiefen, die ich bereits kenne.</p>
     </section>
-    <section id="Interests">
-        <h2>Interest</h2>
-        <p>Email: <a href="mailto:tiago.rodrigues2@yahoo.com">tiago.rodrigues2@yahoo.com</a></p>
-        <p>LinkedIn: <a href="https://www.linkedin.com/in/tiago-r-074105226/" target="_blank">Tiago Rodrigues</a></p>
-    </section>
-
- </section>
+    
+<section id="interests">
+    <h2>Interesses</h2>
+    <p>Estou interessado em diversos tópicos, como Inteligência Artificial, Computação Quântica, Matemática Discreta, Cibersegurança, e, ultimamente, o desenvolvimento de sites de E-Commerce tem ocupado uma parte importante do meu tempo e atenção.</p>
+</section>
+<section id="interests">
+    <h2>Interests</h2>
+    <p>I am interested in various topics, such as Artificial Intelligence, Hypercomputing/Quantum Computing, Discrete Mathematics, Cybersecurity, and lately, the development of E-Commerce websites has taken an important part of my time and attention.</p>
+</section>
+<section id="interests">
+    <h2>Interessen</h2>
+    <p>Ich interessiere mich für verschiedene Themen wie Künstliche Intelligenz, Hypercomputing/Quantencomputing, Diskrete Mathematik, Cybersicherheit, und in letzter Zeit hat die Entwicklung von E-Commerce-Websites einen wichtigen Teil meiner Zeit und Aufmerksamkeit eingenommen.</p>
+</section>
     <section id="contact">
         <h2>Contact</h2>
         <p>Email: <a href="mailto:tiago.rodrigues2@yahoo.com">tiago.rodrigues2@yahoo.com</a></p>
