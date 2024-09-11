@@ -1,4 +1,4 @@
-
+    
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -20,11 +20,11 @@
     
 <section id="interests">
     <h2>Interesses / interests / Interessen </h2>
-    <p>Estou interessado em diversos tópicos, como Inteligência Artificial, Computação Quântica, Matemática Discreta, Cibersegurança, e, ultimamente, o desenvolvimento de sites de E-Commerce tem ocupado uma parte importante do meu tempo e atenção.</p>
+    <p>Estou interessado em diversos tópicos, como Inteligência Artificial, Computação Quântica, Matemática Discreta, Cibersegurança, e, ultimamente, o desenvolvimento de sites de E-Commerce tem ocupado uma parte importante do meu tempo e atenção.
     
-    <p>I am interested in various topics, such as Artificial Intelligence, Hypercomputing/Quantum Computing, Discrete Mathematics, Cybersecurity, and lately, the development of E-Commerce websites has taken an important part of my time and attention.</p>
+    I am interested in various topics, such as Artificial Intelligence, Hypercomputing/Quantum Computing, Discrete Mathematics, Cybersecurity, and lately, the development of E-Commerce websites has taken an important part of my time and attention.
 
-    <p>Ich interessiere mich für verschiedene Themen wie Künstliche Intelligenz, Hypercomputing/Quantencomputing, Diskrete Mathematik, Cybersicherheit, und in letzter Zeit hat die Entwicklung von E-Commerce-Websites einen wichtigen Teil meiner Zeit und Aufmerksamkeit eingenommen.</p>
+    Ich interessiere mich für verschiedene Themen wie Künstliche Intelligenz, Hypercomputing/Quantencomputing, Diskrete Mathematik, Cybersicherheit, und in letzter Zeit hat die Entwicklung von E-Commerce-Websites einen wichtigen Teil meiner Zeit und Aufmerksamkeit eingenommen.</p>
     </section>
     <section id="contact">
         <h2>Contact</h2>
