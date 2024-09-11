@@ -19,17 +19,13 @@
     </section>
     
 <section id="interests">
-    <h2>Interesses</h2>
+    <h2>Interesses / interests / Interessen </h2>
     <p>Estou interessado em diversos tópicos, como Inteligência Artificial, Computação Quântica, Matemática Discreta, Cibersegurança, e, ultimamente, o desenvolvimento de sites de E-Commerce tem ocupado uma parte importante do meu tempo e atenção.</p>
-</section>
-<section id="interests">
-    <h2>Interests</h2>
+    
     <p>I am interested in various topics, such as Artificial Intelligence, Hypercomputing/Quantum Computing, Discrete Mathematics, Cybersecurity, and lately, the development of E-Commerce websites has taken an important part of my time and attention.</p>
-</section>
-<section id="interests">
-    <h2>Interessen</h2>
+
     <p>Ich interessiere mich für verschiedene Themen wie Künstliche Intelligenz, Hypercomputing/Quantencomputing, Diskrete Mathematik, Cybersicherheit, und in letzter Zeit hat die Entwicklung von E-Commerce-Websites einen wichtigen Teil meiner Zeit und Aufmerksamkeit eingenommen.</p>
-</section>
+    </section>
     <section id="contact">
         <h2>Contact</h2>
         <p>Email: <a href="mailto:tiago.rodrigues2@yahoo.com">tiago.rodrigues2@yahoo.com</a></p>
