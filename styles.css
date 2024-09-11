@@ -1,6 +1,6 @@
 /* Background and Text Color */
 body {
-    background-color: #f5f5dc; /* Beige background */
+    background-color: #000080; /* Navy blue background */
     color: #ffd700; /* Gold text color */
     font-family: Arial, sans-serif;
     margin: 0;
@@ -52,6 +52,6 @@ footer {
     position: fixed;
     width: 100%;
     bottom: 0;
-    background-color: #f5f5dc; /* Beige background */
+    background-color: #000080; /* Navy blue background */
     color: #ffd700; /* Gold text color */
 }
