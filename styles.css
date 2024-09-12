@@ -16,6 +16,7 @@ body {
     background-color: #f4f4f4;
 }
 
+/* Header styling */
 header {
     background-color: #003566; /* Dark Blue */
     color: #f2c201; /* Gold */
@@ -27,6 +28,11 @@ header h1 {
     color: #f2c201; /* Gold color for the name */
 }
 
+header p {
+    font-size: 1.2em;
+}
+
+/* Section styling */
 section {
     margin: 20px;
     padding: 20px;
@@ -37,8 +43,16 @@ section {
 
 h2 {
     color: #003566; /* Dark Blue */
+    margin-bottom: 10px;
 }
 
+p {
+    color: #333;
+    line-height: 1.6;
+    margin-bottom: 10px;
+}
+
+/* Link styling */
 a {
     color: #f2c201; /* Gold */
     text-decoration: none;
