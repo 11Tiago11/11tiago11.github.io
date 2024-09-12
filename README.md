@@ -14,9 +14,9 @@
 
 <section id="about">
     <h2>About Me</h2>
-    <p lang="pt">Olá! Sou Tiago Rodrigues, um desenvolvedor web dedicado, sempre buscando aprimorar minhas habilidades em desenvolvimento de software. Estou aberto a novas tecnologias e a aprofundar meu conhecimento nas que já domino.</p>
-    <p>Hello! I am Tiago Rodrigues, a dedicated web developer, constantly seeking to enhance my software development skills. I am open to new technologies and to deepening my knowledge in those I already master.</p>
-    <p lang="de">Hallo! Ich bin Tiago Rodrigues, ein engagierter Webentwickler, der ständig bestrebt ist, seine Fähigkeiten in der Softwareentwicklung zu verbessern. Ich bin offen für neue Technologien und möchte mein Wissen in den Bereichen vertiefen, die ich bereits beherrsche.</p>
+    <p lang="pt">Olá! Sou Tiago Rodrigues, um desenvolvedor de software dedicado, sempre buscando aprimorar minhas habilidades em desenvolvimento de software. Estou aberto a novas tecnologias e a aprofundar meu conhecimento nas que já domino.</p>
+    <p>Hello! I am Tiago Rodrigues, a dedicated software developer, constantly seeking to enhance my software development skills. I am open to new technologies and to deepening my knowledge in those I already master.</p>
+    <p lang="de">Hallo! Ich bin Tiago Rodrigues, ein engagierter Software Entwickler , der ständig bestrebt ist, seine Fähigkeiten in der Softwareentwicklung zu verbessern. Ich bin offen für neue Technologien und möchte mein Wissen in den Bereichen vertiefen, die ich bereits beherrsche.</p>
 </section>
 
 <section id="languages">
