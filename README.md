@@ -21,10 +21,10 @@
 
 <section id="languages">
     <h2>Languages</h2>
-    <p>Português / Portuguese / Portugiesisch: Erstsprache</p>
+    <p>Português / Portuguese / Portugiesisch: Primeira lingua / First language / Erstsprache</p>
     <p>Inglês / English / Englisch: B2</p>
     <p>Alemão / German / Deutsch: B2</p>
-    <p>Espanhol básico / Basic / Grundkenntnisse</p>
+    <p>Espanhol, Spanish, Spanisch básico / Basic / Grundkenntnisse</p>
     <p>Japonês / Japanese / Japanisch: Básico / Basic / Grundkenntnisse</p>
 </section>
     
