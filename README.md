@@ -20,19 +20,12 @@
 </section>
 
 <section id="languages">
-    <h2>Línguas / Languages / Sprachkenntnis</h2>
-    <p lang="pt">Português: Primeira língua</p>
-    <p lang="pt">Inglês e Alemão: B2</p>
-    <p lang="pt">Espanhol: Básico</p>
-    <p lang="pt">Japonês: Básico</p>
-    <p>Portuguese: Native language</p>
-    <p>English and German: B2</p>
-    <p>Spanish: Basic</p>
-    <p>Japanese: Basic</p>
-    <p lang="de">Portugiesisch: Erstsprache</p>
-    <p lang="de">Englisch und Deutsch: B2</p>
-    <p lang="de">Spanisch: Grundkenntnisse</p>
-    <p lang="de">Japanisch: Grundkenntnisse</p>
+    <h2>Languages</h2>
+    <p>Português / Portuguese / Portugiesisch: Erstsprache</p>
+    <p>Inglês / English / Englisch: B2</p>
+    <p>Alemão / German / Deutsch: B2</p>
+    <p>Espanhol básico / Basic / Grundkenntnisse</p>
+    <p>Japonês / Japanese / Japanisch: Básico / Basic / Grundkenntnisse</p>
 </section>
     
 <section id="interests">
