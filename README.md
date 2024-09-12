@@ -13,12 +13,12 @@
         <p>Web Developer</p>
     </header>
 
-    <section id="about">
-        <h2>About Me</h2>
-        <p lang="pt">Olá! Sou Tiago Rodrigues, um desenvolvedor web apaixonado, sempre aprendendo e disposto a aprimorar minhas habilidades em desenvolvimento de software. Estou aberto a explorar novas tecnologias e aprofundar meu conhecimento nas que já domino.</p>
-        <p>Hello! I am Tiago Rodrigues, a passionate web developer continuously learning and eager to improve my skills in software development. I am open to exploring new technologies and diving deeper into those I already know.</p>
-        <p lang="de">Hallo! Ich bin Tiago Rodrigues, ein leidenschaftlicher Webentwickler, der ständig dazulernt und meine Fähigkeiten in der Softwareentwicklung verbessern möchte. Ich bin offen, neue Technologien zu erforschen und mein Wissen in den Bereichen zu vertiefen, die ich bereits kenne.</p>
-    </section>
+<section id="about">
+    <h2>About Me</h2>
+    <p lang="pt">Olá! Sou Tiago Rodrigues, um desenvolvedor web dedicado, sempre buscando aprimorar minhas habilidades em desenvolvimento de software. Estou aberto a novas tecnologias e a aprofundar meu conhecimento nas que já domino.</p>
+    <p>Hello! I am Tiago Rodrigues, a dedicated web developer, constantly seeking to enhance my software development skills. I am open to new technologies and to deepening my knowledge in those I already master.</p>
+    <p lang="de">Hallo! Ich bin Tiago Rodrigues, ein engagierter Webentwickler, der ständig bestrebt ist, seine Fähigkeiten in der Softwareentwicklung zu verbessern. Ich bin offen für neue Technologien und möchte mein Wissen in den Bereichen vertiefen, die ich bereits beherrsche.</p>
+</section>
     
     <section id="interests">
         <h2>Interesses / Interests / Interessen</h2>
