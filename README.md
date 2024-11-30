@@ -1,15 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-      <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-C0QKL2DHTM"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-
-        gtag('config', 'G-C0QKL2DHTM');  <!-- Replace with your tracking ID -->
-        
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Tiago Rodrigues - Web Developer passionate about AI, Quantum Computing, Cybersecurity, and more.">
@@ -19,14 +10,18 @@
     <title>Tiago Rodrigues - My Career in Tech</title>
     <link rel="stylesheet" href="styles.css">
 
-  
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-C0QKL2DHTM"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-C0QKL2DHTM');  <!-- Replace with your own tracking ID -->
     </script>
 </head>
 <body>
     <header>
-        <!-- English greeting -->
-        <h1>Welcome, Herzlich Wilkommen, Bem vindo .</h1>
-        <h1>by Tiago Rodrigues.</h1>
+        <h1>Welcome.</h1>
     </header>
 
     <nav>
@@ -71,6 +66,21 @@
 
             <button type="submit">Send Message</button>
         </form>
+
+        <!-- Analytics Information Section -->
+        <section class="analytics-info">
+            <h3>Website Analytics & Data Collection</h3>
+            <p>This website uses analytics tools to collect and analyze certain data in order to improve the user experience. The following information is collected:</p>
+            <ul>
+                <li><strong>Page Views:</strong> Captures a page view event each time a page loads or when the website changes the browser history state.</li>
+                <li><strong>Scrolls:</strong> Tracks when visitors reach the bottom of a page.</li>
+                <li><strong>Outbound Clicks:</strong> Tracks clicks that lead visitors away from the site.</li>
+                <li><strong>Site Search:</strong> Tracks when a visitor performs a search on the site.</li>
+                <li><strong>Form Interactions:</strong> Tracks when visitors interact with forms on the site.</li>
+                <li><strong>Video Engagement:</strong> Captures events when visitors play or interact with embedded videos.</li>
+                <li><strong>File Downloads:</strong> Tracks when visitors click links to download files like documents or videos.</li>
+            </ul>
+        </section>
     </section>
 
     <!-- German Content Block -->
@@ -106,36 +116,24 @@
 
             <button type="submit">Nachricht senden</button>
         </form>
+
+        <!-- Analytics Information Section -->
+        <section class="analytics-info">
+            <h3>Website Analytics & Datensammlung</h3>
+            <p>Diese Website verwendet Analyse-Tools, um bestimmte Daten zu sammeln und zu analysieren, um die Benutzererfahrung zu verbessern. Folgende Informationen werden erfasst:</p>
+            <ul>
+                <li><strong>Seitenaufrufe:</strong> Erfasst ein Ereignis jedes Mal, wenn eine Seite geladen wird oder die Browser-History geändert wird.</li>
+                <li><strong>Scrollen:</strong> Verfolgt, wenn Besucher das Ende einer Seite erreichen.</li>
+                <li><strong>Ausgehende Klicks:</strong> Verfolgt Klicks auf Links, die den Besucher von der Seite wegführen.</li>
+                <li><strong>Site-Suche:</strong> Verfolgt, wenn ein Besucher auf der Seite eine Suche durchführt.</li>
+                <li><strong>Formularinteraktionen:</strong> Verfolgt, wenn Besucher mit Formularen auf der Seite interagieren.</li>
+                <li><strong>Video-Engagement:</strong> Erfasst Ereignisse, wenn Besucher Videos abspielen oder damit interagieren.</li>
+                <li><strong>Dateidownloads:</strong> Verfolgt, wenn Besucher Links zum Herunterladen von Dateien wie Dokumenten oder Videos anklicken.</li>
+            </ul>
+        </section>
     </section>
 
     <!-- Portuguese Content Block -->
     <section id="portuguese">
         <h2>Sobre Mim</h2>
-        <p>Com o objetivo de me tornar um desenvolvedor de software Java, estou investindo meus recursos para aprender o Java 21SE e tenho planos para obter a Certificação Profissional Oracle Java nos próximos meses.</p>
-
-        <h2>Idiomas</h2>
-        <p>Português: Nativo</p>
-        <p>Inglês: B2</p>
-        <p>Alemão: B2</p>
-        <p>Espanhol: Básico</p>
-        <p>Japonês: Básico</p>
-
-        <h2>Interesses</h2>
-        <p>Atualmente, estou me dedicando em dominar a linguagem Java 21 e suas novas funcionalidades. Tenho a vontade de realizar o Oracle Profissional Certificate 21SE e de desenvolver programas para construir meu portifólio. Além disso, tenho interesse de no futuro aprender Arquitetura de Software. Gosto de pesquisar e descobrir como são as formas de integração com tecnologias modernas de Front-End para construir backends robustos. Integração de Inteligência Artificial e Machine Learning através de bibliotecas como Deeplearning4j, Weka e Apache Spark, otimização de código para eficiência energética e interagir mais com a comunidade Java através de Fórum ou até mesmo Projetos Open Source.</p>
-
-        <h2>Contato</h2>
-        <p>Email: <a href="mailto:tiago.rodrigues2@yahoo.com">tiago.rodrigues2@yahoo.com</a></p>
-        <p>LinkedIn: <a href="https://www.linkedin.com/in/tiago-r-074105226/" target="_blank" rel="noopener noreferrer">Tiago Rodrigues</a></p>
-
-        <h3>Formulário de Contato</h3>
-        <form id="contact-form">
-            <label for="name">Seu Nome:</label>
-            <input type="text" id="name" name="name" required>
-
-            <label for="email">Seu E-mail:</label>
-            <input type="email" id="email" name="email" required>
-
-            <label for="message">Mensagem:</label>
-            <textarea id="message" name="message" rows="4" required></textarea>
-
-            <p>Se você chegou ao meu site, deixe um "Oi
+        <p>Com o objetivo
