@@ -17,23 +17,22 @@ body {
 
 /* Header styling */
 header {
-    background-color: #333; /* Dark background for header */
-    color: #fff; /* White text */
+    background-color: #f2c201; /* Gold background (no shadow behind the welcome text) */
+    color: #000000; /* Black text */
     padding: 30px;
     text-align: center;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); /* Subtle shadow for depth */
 }
 
 header h1 {
-    color: #fff; /* White text */
+    color: #000000; /* Black color for the name */
     font-size: 2.5em; /* Larger header text */
     margin-bottom: 10px;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4); /* Shadow effect for text */
+    text-shadow: none; /* Removed shadow behind Welcome */
 }
 
 header p {
     font-size: 1.2em;
-    color: #fff; /* White text */
+    color: #000000; /* Black text */
 }
 
 /* Navigation styling */
@@ -65,16 +64,17 @@ nav ul li a:hover {
     background-color: #f2c201; /* Highlight background on hover */
     color: #003566; /* Dark text on hover */
     border-radius: 5px;
-    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3); /* Shadow effect on hover */
 }
 
 /* Section styling */
 section {
-    margin: 20px;
+    margin: 20px auto;  /* Centering sections with margin */
     padding: 20px;
-    background-color: #fff;
+    background-color: #fff; /* White background (no blue background here) */
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+    width: 80%; /* Ensures all sections have consistent width */
+    max-width: 1000px; /* Limits section width for larger screens */
 }
 
 /* Section headers */
@@ -82,7 +82,7 @@ h2 {
     color: #333; /* Dark text color */
     font-size: 2em;
     margin-bottom: 20px;
-    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2); /* Light shadow for section titles */
+    text-align: center; /* Centers the section headers */
 }
 
 /* Paragraph styling */
@@ -90,6 +90,7 @@ p {
     color: #333; /* Dark grey text */
     line-height: 1.6;
     margin-bottom: 15px;
+    text-align: justify; /* Ensures text is spread evenly across the section */
 }
 
 /* Link styling */
@@ -102,7 +103,6 @@ a {
 a:hover {
     color: #f2c201; /* Gold color on hover */
     text-decoration: underline;
-    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3); /* Shadow effect on hover */
 }
 
 /* Footer Styling */
@@ -136,6 +136,7 @@ footer p {
     section {
         padding: 15px;
         margin: 15px;
+        width: 90%;  /* Allowing the section to occupy more of the screen width on smaller devices */
     }
 
     h2 {
