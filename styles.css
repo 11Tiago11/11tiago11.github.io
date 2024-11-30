@@ -75,6 +75,7 @@ section {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
     width: 85%; /* Increased width for content */
     max-width: 1200px; /* Limits the width to avoid overly large sections */
+    margin-bottom: 30px; /* Extra spacing between sections */
 }
 
 /* Section headers */
@@ -118,6 +119,47 @@ footer p {
     font-size: 1em;
 }
 
+/* Add special styling for multilingual disclaimer */
+footer p {
+    font-size: 0.9em; /* Smaller footer text */
+    margin-top: 15px;
+}
+
+/* Contact Form styling */
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+form label {
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+form input, form textarea {
+    padding: 10px;
+    margin-bottom: 15px;
+    font-size: 1em;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+form button {
+    padding: 10px 20px;
+    background-color: #003566; /* Blue button */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.2em;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+form button:hover {
+    background-color: #f2c201; /* Change to gold on hover */
+    color: #003566;
+}
+
 /* Responsive Design */
 @media (max-width: 768px) {
     header h1 {
@@ -145,5 +187,9 @@ footer p {
 
     p {
         font-size: 1em; /* Adjust font size for better mobile readability */
+    }
+
+    form input, form textarea {
+        font-size: 1.1em; /* Larger inputs for easier typing */
     }
 }
