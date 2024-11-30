@@ -46,11 +46,27 @@
         <p>Currently, I am focused on mastering the Java 21 language and its new features, integrating with modern Front-End technologies to build robust backends, AI and Machine Learning integration through libraries like Deeplearning4j, Weka, and Apache Spark, writing energy-efficient code, and becoming more active in the Java community through forums or even Open Source Projects.</p>
         <p lang="de">Derzeit konzentriere ich mich darauf, die Programmiersprache Java 21 und ihre neuen Funktionen zu meistern, die Integration mit modernen Front-End-Technologien, um robuste Backends zu erstellen, die Integration von Künstlicher Intelligenz und Machine Learning durch Bibliotheken wie Deeplearning4j, Weka und Apache Spark, die Erstellung energieeffizienten Codes und aktiver in der Java-Community zu sein, sei es durch Foren oder sogar Open-Source-Projekte.</p>
     </section>
+    
 
     <section id="contact">
-        <h2>Contact</h2>
-        <p>Email: <a href="mailto:tiago.rodrigues2@yahoo.com">tiago.rodrigues2@yahoo.com</a></p>
-        <p>LinkedIn: <a href="https://www.linkedin.com/in/tiago-r-074105226/" target="_blank" rel="noopener noreferrer">Tiago Rodrigues</a></p>
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:tiago.rodrigues2@yahoo.com">tiago.rodrigues2@yahoo.com</a></p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/tiago-r-074105226/" target="_blank" rel="noopener noreferrer">Tiago Rodrigues</a></p>
+    <h3>Contact Form</h3>
+    <form id="contact-form">
+        <label for="name">Your Name:</label>
+        <input type="text" id="name" name="name" required>
+
+        <label for="email">Your Email:</label>
+        <input type="email" id="email" name="email" required>
+
+        <label for="message">Message:</label>
+        <textarea id="message" name="message" rows="4" required></textarea>
+
+        <button type="submit">Send Message</button>
+    </form>
+</section>
+
     </section>
 
     <script src="script.js"></script>
