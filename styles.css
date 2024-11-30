@@ -11,23 +11,24 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #f2c201; /* Gold/yellow background */
 }
 
 /* Header styling */
 header {
-    background-color: #003566; /* Dark Blue */
-    color: #f2c201; /* Gold */
+    background-color: #f2c201; /* Gold background */
+    color: #000000; /* Black text */
     padding: 20px;
     text-align: center;
 }
 
 header h1 {
-    color: #f2c201; /* Gold color for the name */
+    color: #000000; /* Black color for the name */
 }
 
 header p {
     font-size: 1.2em;
+    color: #000000; /* Black text */
 }
 
 /* Section styling */
@@ -40,19 +41,19 @@ section {
 }
 
 h2 {
-    color: #003566; /* Dark Blue */
+    color: #000000; /* Black text */
     margin-bottom: 10px;
 }
 
 p {
-    color: #333;
+    color: #333; /* Dark grey text */
     line-height: 1.6;
     margin-bottom: 10px;
 }
 
 /* Link styling */
 a {
-    color: #f2c201; /* Gold */
+    color: #000000; /* Black links */
     text-decoration: none;
 }
 
