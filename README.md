@@ -1,16 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-C0QKL2DHTM"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-C0QKL2DHTM');
-</script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Tiago Rodrigues - Web Developer passionate about AI, Quantum Computing, Cybersecurity, and more.">
@@ -19,6 +9,16 @@
     <meta property="og:title" content="Tiago Rodrigues - My Career in Tech">
     <title>Tiago Rodrigues - My Career in Tech</title>
     <link rel="stylesheet" href="styles.css">
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-C0QKL2DHTM"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-C0QKL2DHTM');  <!-- Replace with your tracking ID -->
+    </script>
 </head>
 <body>
     <header>
@@ -135,12 +135,4 @@
             <label for="message">Mensagem:</label>
             <textarea id="message" name="message" rows="4" required></textarea>
 
-            <p>Se você chegou ao meu site, deixe um "Oi" junto com o link do seu LinkedIn. Vamos nos conectar!</p>
-
-            <button type="submit">Enviar Mensagem</button>
-        </form>
-    </section>
-
-    <script src="script.js"></script>
-</body>
-</html>
+            <p>Se você chegou ao meu site, deixe um "Oi
