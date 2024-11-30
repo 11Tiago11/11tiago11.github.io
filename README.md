@@ -23,7 +23,8 @@
 <body>
     <header>
         <!-- English greeting -->
-        <h1>Welcome.</h1>
+        <h1>Welcome to my Website.</h1>
+        <h1>by Tiago Rodrigues.</h1>
     </header>
 
     <nav>
