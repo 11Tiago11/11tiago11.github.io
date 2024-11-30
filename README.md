@@ -16,12 +16,13 @@
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
-        gtag('config', 'G-C0QKL2DHTM');  <!-- Replace with your own tracking ID -->
+        gtag('config', 'G-C0QKL2DHTM');
     </script>
 </head>
 <body>
     <header>
         <h1>Welcome.</h1>
+        <p>My Career in Tech</p>
     </header>
 
     <nav>
@@ -133,7 +134,9 @@
         </section>
     </section>
 
-    <!-- Portuguese Content Block -->
-    <section id="portuguese">
-        <h2>Sobre Mim</h2>
-        <p>Com o objetivo
+    <footer>
+        <p>&copy; 2024 Tiago Rodrigues - All rights reserved</p>
+    </footer>
+
+</body>
+</html>
