@@ -62,7 +62,7 @@ nav ul li a {
 
 nav ul li a:hover {
     background-color: #f2c201; /* Highlight background on hover */
-    color: #003566; /* Dark text on hover */
+    color: #000000; /* Text turns black on hover */
     border-radius: 5px;
 }
 
