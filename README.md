@@ -1,15 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-     <!-- Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-C0QKL2DHTM"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', 'G-C0QKL2DHTM');
-    </script>
-    
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Tiago Rodrigues - Web Developer passionate about AI, Quantum Computing, Cybersecurity, and more.">
@@ -17,16 +8,13 @@
     <meta name="keywords" content="Web Developer, AI, Quantum Computing, Cybersecurity, E-Commerce">
     <meta property="og:title" content="Tiago Rodrigues - My Career in Tech">
     <title>Tiago Rodrigues - My Career in Tech</title>
-
-    <!-- Link to external CSS file -->
     <link rel="stylesheet" href="styles.css">
-
-   
 </head>
 <body>
-
     <header>
-        <h1>Welcome.</h1>
+        <!-- Greeting added at the beginning -->
+        <h1>Herzlich Willkommen / Bem Vindo!</h1>
+        <p>Hi, I'm Tiago Rodrigues. Welcome to my personal website!</p>
     </header>
 
     <nav>
@@ -41,7 +29,7 @@
     <!-- English Content Block -->
     <section id="english">
         <h2>About Me</h2>
-        <p>With the aim of becoming a Java software developer, I am investing my resources to learn Java 21SE and plan to pursue the Oracle Java Professional Certification in the upcoming months.</p>
+        <p>Hi, I'm Tiago Rodrigues, a passionate Java developer aiming to grow into an even better one. I've completed several **Udemy Java courses**, and I've read numerous books about **Java Development** to expand my knowledge. I constantly push myself to improve my skills, working towards the Oracle Java Professional Certification and integrating new technologies to build efficient and scalable solutions. My mission is to master Java 21SE and make an impact in the world of programming.</p>
 
         <h2>Languages</h2>
         <p>English: B2</p>
@@ -76,7 +64,7 @@
     <!-- German Content Block -->
     <section id="german">
         <h2>Über mich</h2>
-        <p>Mit dem Ziel, Java-Softwareentwickler zu werden, investiere ich meine Ressourcen, um Java 21SE zu erlernen, und plane, in den nächsten Monaten die Oracle Java Professional Certification zu erwerben.</p>
+        <p>Hallo, ich bin Tiago Rodrigues, ein leidenschaftlicher Java-Entwickler, der darauf abzielt, ein noch besserer Entwickler zu werden. Ich habe mehrere **Udemy Java-Kurse** abgeschlossen und viele Bücher über **Java-Entwicklung** gelesen, um mein Wissen zu erweitern. Ich forciere mich selbst, meine Fähigkeiten weiter zu verbessern, arbeite auf die Oracle Java Professional Certification hin und integriere neue Technologien, um effiziente und skalierbare Lösungen zu entwickeln. Mein Ziel ist es, Java 21SE zu meistern und einen Einfluss auf die Programmierwelt zu haben.</p>
 
         <h2>Sprachen</h2>
         <p>Deutsch: B2</p>
@@ -111,7 +99,7 @@
     <!-- Portuguese Content Block -->
     <section id="portuguese">
         <h2>Sobre Mim</h2>
-        <p>Com o objetivo de me tornar um desenvolvedor de software Java, estou investindo meus recursos para aprender o Java 21SE e tenho planos para obter a Certificação Profissional Oracle Java nos próximos meses.</p>
+        <p>Olá, eu sou Tiago Rodrigues, um desenvolvedor Java apaixonado, que busca crescer ainda mais. Eu já fiz vários **cursos de Java na Udemy** e li muitos livros sobre **Desenvolvimento Java** para expandir meus conhecimentos. Eu me esforço para melhorar constantemente, trabalhando para obter a Certificação Profissional Oracle Java e integrando novas tecnologias para criar soluções eficientes e escaláveis. Meu objetivo é dominar o Java 21SE e deixar minha marca no mundo da programação.</p>
 
         <h2>Idiomas</h2>
         <p>Português: Nativo</p>
@@ -121,7 +109,7 @@
         <p>Japonês: Básico</p>
 
         <h2>Interesses</h2>
-        <p>Atualmente, estou me dedicando em dominar a linguagem Java 21 e suas novas funcionalidades. Tenho a vontade de realizar o Oracle Profissional Certificate 21SE e de desenvolver programas para construir meu portifólio. Além disso, tenho interesse de no futuro aprender Arquitetura de Software. Gosto de pesquisar e descobrir como são as formas de integração com tecnologias modernas de Front-End para construir backends robustos. Integração de Inteligência Artificial e Machine Learning através de bibliotecas como Deeplearning4j, Weka e Apache Spark, otimização de código para eficiência energética e interagir mais com a comunidade Java através de Fórum ou até mesmo Projetos Open Source.</p>
+        <p>Atualmente, estou me dedicando em dominar a linguagem Java 21 e suas novas funcionalidades. Tenho a vontade de realizar o Oracle Profissional Certificate 21SE e de desenvolver programas para construir meu portfólio. Além disso, tenho interesse de no futuro aprender Arquitetura de Software. Gosto de pesquisar e descobrir como são as formas de integração com tecnologias modernas de Front-End para construir backends robustos. Integração de Inteligência Artificial e Machine Learning através de bibliotecas como Deeplearning4j, Weka e Apache Spark, otimização de código para eficiência energética e interagir mais com a comunidade Java através de Fórum ou até mesmo Projetos Open Source.</p>
 
         <h2>Contato</h2>
         <p>Email: <a href="mailto:tiago.rodrigues2@yahoo.com">tiago.rodrigues2@yahoo.com</a></p>
@@ -145,9 +133,7 @@
     </section>
 
     <footer>
-        <p>Powered by Google Analytics to collect information on page views, scrolls, outbound clicks, form interactions, and more. For more details, check our Privacy Policy.</p>
+        <p>This website is powered by Google Analytics and other tracking tools for enhancing user experience.</p>
     </footer>
-
-    <script src="script.js"></script>
 </body>
 </html>
