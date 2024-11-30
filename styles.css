@@ -66,15 +66,15 @@ nav ul li a:hover {
     border-radius: 5px;
 }
 
-/* Section styling */
+/* Remove background blue from sections */
 section {
     margin: 20px auto;  /* Centering sections with margin */
     padding: 20px;
-    background-color: #fff; /* White background (no blue background here) */
+    background-color: #fff; /* White background for content sections */
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
-    width: 80%; /* Ensures all sections have consistent width */
-    max-width: 1000px; /* Limits section width for larger screens */
+    width: 85%; /* Increased width for content */
+    max-width: 1200px; /* Limits the width to avoid overly large sections */
 }
 
 /* Section headers */
