@@ -12,23 +12,57 @@ body {
     margin: 0;
     padding: 0;
     background-color: #f2c201; /* Gold/yellow background */
+    color: #000000; /* Ensure text is black */
 }
 
 /* Header styling */
 header {
     background-color: #f2c201; /* Gold background */
     color: #000000; /* Black text */
-    padding: 20px;
+    padding: 30px;
     text-align: center;
 }
 
 header h1 {
     color: #000000; /* Black color for the name */
+    font-size: 2.5em; /* Increased header size */
+    margin-bottom: 10px;
 }
 
 header p {
     font-size: 1.2em;
     color: #000000; /* Black text */
+}
+
+/* Navigation styling */
+nav {
+    background-color: #003566; /* Dark blue background */
+    padding: 15px 0;
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    margin: 0;
+}
+
+nav ul li {
+    margin: 0 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #f2c201; /* Gold color for links */
+    font-size: 1.2em;
+    padding: 8px 15px;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+nav ul li a:hover {
+    background-color: #f2c201; /* Highlight background on hover */
+    color: #003566; /* Dark text on hover */
+    border-radius: 5px;
 }
 
 /* Section styling */
@@ -40,23 +74,70 @@ section {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
+/* Section headers */
 h2 {
     color: #000000; /* Black text */
-    margin-bottom: 10px;
+    font-size: 2em;
+    margin-bottom: 20px;
 }
 
+/* Paragraph styling */
 p {
     color: #333; /* Dark grey text */
     line-height: 1.6;
-    margin-bottom: 10px;
+    margin-bottom: 15px;
 }
 
 /* Link styling */
 a {
     color: #000000; /* Black links */
     text-decoration: none;
+    transition: color 0.3s ease;
 }
 
 a:hover {
+    color: #f2c201; /* Gold color on hover */
     text-decoration: underline;
 }
+
+/* Footer Styling */
+footer {
+    background-color: #003566; /* Dark blue background */
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+footer p {
+    font-size: 1em;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    header h1 {
+        font-size: 2em; /* Smaller header on mobile */
+    }
+    
+    nav ul {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    nav ul li {
+        margin: 10px 0;
+    }
+
+    section {
+        padding: 15px;
+        margin: 15px;
+    }
+
+    h2 {
+        font-size: 1.8em; /* Slightly smaller heading */
+    }
+
+    p {
+        font-size: 1em; /* Adjust font size for better mobile readability */
+    }
+}
+
